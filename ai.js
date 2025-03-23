@@ -2,9 +2,9 @@ module.exports = async function ai(custom ,token, api, model, content, prompt, m
   const { ChatGPTAPI } = await import('chatgpt')
   const chatapi = new ChatGPTAPI({
     apiKey: token,
-    apiBaseUrl: api || 'https://summary.tianli0.top',
+    apiBaseUrl: api || 'https://api.deepseek.com',
     completionParams: {
-      model: model || 'gpt-3.5-turbo',
+      model: model || 'deepseek-chat',
     },
     fetch: (async(url, options) => {
       if(!custom) options.body = options.body.slice(0, -1) + `, "key": "${token}"}`
