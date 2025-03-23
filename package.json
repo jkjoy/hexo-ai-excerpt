@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "html-to-text": "^9.0.5",
-    "chatgpt": "^5.2.2"
+    "chatgpt": "^5.2.5"
   },
   "homepage": "https://github.com/jkjoy/hexo-auto-description"
 }
