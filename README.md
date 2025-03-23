@@ -1,7 +1,7 @@
 # 介绍
 > 为您的hexo博客提供ai摘要
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7ADAD&repeat=false&width=435&lines=npm+i+hexo-ai-excerpt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7ADAD&repeat=false&width=435&lines=npm+i+hexo-auto-description)](https://git.io/typing-svg)
 ```
 npm i hexo-auto-description
 ```
