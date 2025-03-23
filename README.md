@@ -1,9 +1,9 @@
-# hexo-ai-excerpt
+# 介绍
 > 为您的hexo博客提供ai摘要
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7ADAD&repeat=false&width=435&lines=npm+i+hexo-ai-excerpt)](https://git.io/typing-svg)
 ```
-npm i hexo-ai-excerpt
+npm i hexo-auto-description
 ```
 
 **Node >= 18**
@@ -35,6 +35,4 @@ aiexcerpt:
 | ignoreEl       | 要排除的 `content` 内容 |
 | max_token      | 最大字符限制            |
 
-## API推荐
-
-[api2d](https://api2d.com/r/195259)
+ 
